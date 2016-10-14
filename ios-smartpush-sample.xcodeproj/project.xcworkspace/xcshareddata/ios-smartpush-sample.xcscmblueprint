@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5C7D6F3CE67EAC77FE48935A35C97B8B6E0F7EC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5C7D6F3CE67EAC77FE48935A35C97B8B6E0F7EC5" : 0,
+    "FB7A6BC77EE5E4E17A7A390EEA91BA6559838CFD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34B79A02-0E8D-4D3B-A9D6-A950D2AE179B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5C7D6F3CE67EAC77FE48935A35C97B8B6E0F7EC5" : "ios-smartpush-sample\/",
+    "FB7A6BC77EE5E4E17A7A390EEA91BA6559838CFD" : "ios-smartpush-lib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios-smartpush-sample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios-smartpush-sample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/smartpush\/ios-smartpush-demoapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C7D6F3CE67EAC77FE48935A35C97B8B6E0F7EC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/smartpush\/ios-smartpush-lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB7A6BC77EE5E4E17A7A390EEA91BA6559838CFD"
+    }
+  ]
+}
